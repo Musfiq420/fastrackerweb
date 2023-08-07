@@ -1,0 +1,12 @@
+{
+  "colors": {
+    "title": "#9E9E9E",
+    "primary": "#0C9C00",
+    "contrast": "#00C853",
+    "contrastActive": "#08db60",
+    "background": "#E8F5E9",
+    "backgroundActive": "#B9F6CA",
+    "borderPrimary": "#B9F6CA",
+    "borderGray": "rgb(240, 240, 240)"
+  }
+}
